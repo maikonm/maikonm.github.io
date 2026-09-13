@@ -156,7 +156,12 @@ button {
 .brand-name span {
   background: var(--gradient-accent);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding-bottom: 0.15em;
+  margin-bottom: -0.15em;
+  vertical-align: baseline;
 }
 
 .nav-links {
@@ -375,7 +380,7 @@ button {
 .hero-title {
   font-size: clamp(2.3rem, 5.5vw, 4rem);
   font-weight: 800;
-  line-height: 1.15;
+  line-height: 1.25;
   letter-spacing: -1.5px;
   max-width: 950px;
   margin: 0 auto 1.5rem;
@@ -384,8 +389,14 @@ button {
 .hero-title .gradient-text {
   background: var(--gradient-accent);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
+  padding-bottom: 0.25em;
+  margin-bottom: -0.25em;
+  padding-top: 0.05em;
+  margin-top: -0.05em;
+  vertical-align: baseline;
 }
 
 .hero-subtitle {
