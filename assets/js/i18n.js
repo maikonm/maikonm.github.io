@@ -331,17 +331,23 @@ const I18nManager = {
   currentLang: 'pt',
 
   init() {
-    // Verifica localStorage ou idioma do navegador
+    // 1. Verifica se o visitante já escolheu um idioma manualmente
     const saved = localStorage.getItem('portfolio_lang');
     if (saved && ['pt', 'en', 'es'].includes(saved)) {
       this.currentLang = saved;
+      return;
+    }
+
+    // 2. Detecção automática baseada no idioma/região do navegador
+    const userLang = (navigator.language || navigator.userLanguage || 'en').slice(0, 2).toLowerCase();
+
+    if (userLang === 'pt') {
+      this.currentLang = 'pt';
+    } else if (userLang === 'es') {
+      this.currentLang = 'es';
     } else {
-      const browserLang = (navigator.language || navigator.userLanguage || 'pt').slice(0, 2).toLowerCase();
-      if (['en', 'es'].includes(browserLang)) {
-        this.currentLang = browserLang;
-      } else {
-        this.currentLang = 'pt';
-      }
+      // Padrão internacional global (EN) para países de língua inglesa e qualquer outro idioma (Alemão, Francês, Japonês, etc.)
+      this.currentLang = 'en';
     }
   },
 
