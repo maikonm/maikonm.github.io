@@ -94,7 +94,7 @@ const TRANSLATIONS = {
     // Contact & Footer
     contact_tag: "Vamos Conversar?",
     contact_title: "Pronto para Criar o Próximo Jogo?",
-    contact_desc: "Estou disponível para contratações full-time, consultorias de prototipagem rápida e projetos freelance.",
+    contact_desc: "Estou disponível para consultorias de prototipagem rápida e projetos freelance.",
     contact_copy_btn: "Copiar E-mail",
     toast_copied: "E-mail copiado para a área de transferência!",
     footer_rights: "© 2026 Maikon. Todos os direitos reservados.",
@@ -201,7 +201,7 @@ const TRANSLATIONS = {
     // Contact & Footer
     contact_tag: "Let's Connect",
     contact_title: "Ready to Build the Next Hit Game?",
-    contact_desc: "I am available for full-time opportunities, rapid prototyping consulting, and select freelance contracts.",
+    contact_desc: "I am available for rapid prototyping consulting and select freelance projects.",
     contact_copy_btn: "Copy Email",
     toast_copied: "Email copied to clipboard!",
     footer_rights: "© 2026 Maikon. All rights reserved.",
@@ -308,7 +308,7 @@ const TRANSLATIONS = {
     // Contact & Footer
     contact_tag: "¿Conversamos?",
     contact_title: "¿Listo para Crear el Próximo Gran Juego?",
-    contact_desc: "Disponible para contrataciones full-time, consultorías de prototipado rápido y proyectos freelance.",
+    contact_desc: "Disponible para consultorías de prototipado rápido y proyectos freelance.",
     contact_copy_btn: "Copiar Correo",
     toast_copied: "¡Correo copiado al portapapeles!",
     footer_rights: "© 2026 Maikon. Todos los derechos reservados.",
