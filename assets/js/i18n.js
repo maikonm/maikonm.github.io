@@ -65,7 +65,7 @@ const TRANSLATIONS = {
     pillar1_desc: "Criação de regras claras, curvas de aprendizado orgânicas e mecânicas com retorno sensorial imediato para o jogador.",
     pillar1_item1: "Core loops viciantes e progressão de recompensas",
     pillar1_item2: "Level Design dinâmico e balanceamento de dificuldade",
-    pillar1_item3: "Sensação tátil, 'Game Juice' e feedback satisfatório",
+    pillar1_item3: "Polimento de resposta tátil, feedback visual e Game Feel envolvente",
     pillar1_item4: "Otimização para métricas D1/D7 em jogos mobile",
 
     pillar2_title: "2. Programação de Gameplay",
@@ -88,7 +88,7 @@ const TRANSLATIONS = {
     about_tag: "Perfil Profissional",
     about_title: "Sobre Mim",
     about_p1: "Sou apaixonado por transformar conceitos abstratos em <strong>jogos vibrantes, divertidos e funcionais</strong>. Com atuação completa em <strong>Game Design</strong>, <strong>Programação</strong> e <strong>Modelagem 3D</strong>, possuo autonomia para construir experiências do zero e iterar com extrema rapidez sobre o que funciona de verdade na mão do jogador.",
-    about_p2: "Ao longo do desenvolvimento de mais de 25 jogos e protótipos (incluindo títulos casuais, idle tycoons, runners e quebra-cabeças competitivos), refinei a habilidade de balancear a <strong>sensação tátil do jogo ('juice')</strong> com código robusto e limpo na Unity.",
+    about_p2: "Ao longo do desenvolvimento de mais de 25 jogos e protótipos (incluindo títulos casuais, idle tycoons, runners e quebra-cabeças competitivos), refinei a habilidade de balancear <strong>polimento visual e resposta tátil altamente satisfatória (Game Feel)</strong> com código robusto, performático e limpo.",
     about_p3: "Seja para integrar um estúdio dinâmico, liderar a prototipagem de novos sucessos ou desenvolver títulos sob encomenda, meu foco é sempre a entrega de valor, retenção e máxima diversão.",
 
     // Contact & Footer
@@ -172,7 +172,7 @@ const TRANSLATIONS = {
     pillar1_desc: "Designing intuitive rules, organic learning curves, and mechanics with immediate tactile sensory feedback for players.",
     pillar1_item1: "Hooky core loops and rewarding progression systems",
     pillar1_item2: "Dynamic level design and balanced difficulty curves",
-    pillar1_item3: "Tactile feel, 'Game Juice', and juicy feedback",
+    pillar1_item3: "Engaging Game Feel, visual polish, and satisfying tactile feedback",
     pillar1_item4: "Optimization for D1/D7 retention in mobile gaming",
 
     pillar2_title: "2. Gameplay Programming",
@@ -195,7 +195,7 @@ const TRANSLATIONS = {
     about_tag: "Professional Profile",
     about_title: "About Me",
     about_p1: "I am passionate about turning abstract concepts into <strong>vibrant, engaging, and polished games</strong>. With comprehensive capability across <strong>Game Design</strong>, <strong>Programming</strong>, and <strong>3D Modeling</strong>, I build games autonomously from the ground up and iterate rapidly on what truly delights players.",
-    about_p2: "Having developed over 25 games and prototypes—spanning casual titles, idle tycoons, runners, and competitive puzzle games—I have mastered the craft of balancing <strong>satisfying game juice</strong> with reliable, performant Unity code.",
+    about_p2: "Having developed over 25 games and prototypes—spanning casual titles, idle tycoons, runners, and competitive puzzle games—I have mastered the craft of balancing <strong>deeply satisfying visual polish and tactile feedback (Game Feel)</strong> with reliable, performant code.",
     about_p3: "Whether joining a fast-paced studio, leading rapid prototyping initiatives, or building bespoke games, my priority is consistently delivering exceptional player retention and pure fun.",
 
     // Contact & Footer
@@ -279,7 +279,7 @@ const TRANSLATIONS = {
     pillar1_desc: "Diseño de reglas claras, curvas de aprendizaje orgánicas y mecánicas con respuesta sensorial inmediata para el jugador.",
     pillar1_item1: "Bucles principales adictivos y progresión de recompensas",
     pillar1_item2: "Diseño de niveles dinámico y balance de dificultad",
-    pillar1_item3: "Sensación táctil, 'Game Juice' y retroalimentación satisfactoria",
+    pillar1_item3: "Game Feel envolvente, pulido visual y respuesta táctil satisfactoria",
     pillar1_item4: "Optimización para métricas de retención D1/D7 en juegos móviles",
 
     pillar2_title: "2. Programación de Gameplay",
@@ -302,7 +302,7 @@ const TRANSLATIONS = {
     about_tag: "Perfil Profesional",
     about_title: "Sobre Mí",
     about_p1: "Me apasiona transformar conceptos abstractos en <strong>juegos dinámicos, divertidos y altamente pulidos</strong>. Con dominio integral en <strong>Game Design</strong>, <strong>Programación</strong> y <strong>Modelado 3D</strong>, tengo autonomía para crear experiencias desde cero e iterar con rapidez sobre lo que realmente engancha al jugador.",
-    about_p2: "A lo largo de más de 25 juegos y prototipos desarrollados (incluyendo títulos casuales, idle tycoons, runners y puzles competitivos), he perfeccionado el equilibrio entre la <strong>sensación táctil ('game juice')</strong> y código sólido y eficiente en Unity.",
+    about_p2: "A lo largo de más de 25 juegos y prototipos desarrollados (incluyendo títulos casuales, idle tycoons, runners y puzles competitivos), he perfeccionado el equilibrio entre <strong>un pulido visual y respuesta táctil altamente satisfactoria (Game Feel)</strong> con código sólido, eficiente y limpio.",
     about_p3: "Ya sea para integrarme a un estudio ágil, liderar la creación de prototipos o desarrollar proyectos a medida, mi enfoque siempre es entregar valor, retención y diversión absoluta.",
 
     // Contact & Footer
